@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "outDir": "./dist",
+        "noImplicitAny": true,
+        "experimentalDecorators": true,
+        "emitDecoratorMetadata": true,
+        "target": "es5",
+        "module": "system"
+    },
+    "files": [
+        "./src/main.ts"
+    ]
+}
